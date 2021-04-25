@@ -1,0 +1,28 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "A quick note taking app",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "dustin gottlieb",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "i": "^0.3.6",
+        "node": "^16.0.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "note",
+        "taker",
+        "note",
+        "taker",
+        "app"
+    ]
+}
