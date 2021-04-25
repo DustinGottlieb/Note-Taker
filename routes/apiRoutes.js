@@ -7,7 +7,6 @@ module.exports = (app) => {
         fs.ReadFile()
     });
 
-    // API POST Requests
     app.post('/api/notes', (req, res) => {
         const newNote = req.body;
 
